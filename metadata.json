@@ -1,0 +1,6 @@
+{
+  "name": "Classic Snake Canvas",
+  "description": "A classic retro Snake game built with HTML5 canvas and modern JavaScript/TypeScript, featuring fluid controls, sound effects, particle feedback, and difficulty modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
